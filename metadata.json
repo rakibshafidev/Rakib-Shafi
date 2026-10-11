@@ -1,0 +1,6 @@
+{
+  "name": "Tonnie Legacy™",
+  "description": "Men's personal growth, strong families, and lasting legacy through coaching, bookstore, and resources. Veteran-owned.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
